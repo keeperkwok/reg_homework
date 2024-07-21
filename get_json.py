@@ -8,7 +8,7 @@ import time
 
 url = 'https://api.xygeng.cn/one'
 e = 1
-batch = 5
+batch = 1000
 for l in range(e):
     print('==file {}=='.format(l+1))
     lines = []
