@@ -3,7 +3,7 @@ import json
 import requests
  
 # collection名称
-collection_name="file1"
+collection_name="file_data"
  
 def init_db_client():
     """初始化数据库客户端"""
